@@ -1,0 +1,22 @@
+1 24 "blktool.exe.manifest"
+1 VERSIONINFO
+FILEVERSION 0,0,0,1
+PRODUCTVERSION 0,0,0,1
+FILETYPE 1{
+	BLOCK "StringFileInfo"{
+		BLOCK "040904E4"{
+			VALUE "CompanyName",      "ClassFun"
+			VALUE "FileVersion",      "0.0.0.1"
+			VALUE "FileDescription",  "Block Tools"
+			VALUE "InternalName",     "blktool"
+			VALUE "LegalCopyright",   "ClassFun"
+			VALUE "LegalTrademarks",  "ClassFun"
+			VALUE "OriginalFilename", "blktool.exe"
+			VALUE "ProductName",      "Block Tools"
+			VALUE "ProductVersion",   "0.0.0.1"
+		}
+	}
+	BLOCK "VarFileInfo"{
+		VALUE "Translation", 0x0409, 1252
+	}
+}
